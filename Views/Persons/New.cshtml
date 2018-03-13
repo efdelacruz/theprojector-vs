@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "New Person";
+}
+
+
+<div class="container">
+  <div class="row">
+    <div class="mol-md-8 col-md-offset-2">
+      <div class="panel panel-default">
+        <div class="panel-heading">Create Person</div>
+          <div class="panel-body">
+            
+            <p>
+                <a asp-action="Create">Create New</a>
+            </p>
+            <form asp-controller="Persons" asp-action="New">
+
+              <div class="form_group">
+                <div class="col-md-8 col-md-offset-2">
+                  <input type="text" name="UserName" />
+                </div>
+              </div>
+
+              <div class="form_group">
+                <div class="col-md-8 col-md-offset-2">
+                  <input type="text" name="FirstName" />
+                </div>
+              </div>
+
+              <div class="form_group">
+                <div class="col-md-8 col-md-offset-2">
+                  <input type="text" name="LastName" />
+                </div>
+              </div>
+
+              <div class="form_group">
+                <div class="col-md-8 col-md-offset-2">
+                  <input type="text" name="Password" />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="col-md-8 col-md-offset-4" style="margin-top:5px;">
+                  <input type="text" name="Role" />
+                </div>
+              </div>
+
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

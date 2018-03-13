@@ -1,0 +1,10 @@
+/home/delacruz/git-efdc/theprojector-vs/bin/Debug/netcoreapp2.0/theprojector-vs.deps.json
+/home/delacruz/git-efdc/theprojector-vs/bin/Debug/netcoreapp2.0/theprojector-vs.runtimeconfig.json
+/home/delacruz/git-efdc/theprojector-vs/bin/Debug/netcoreapp2.0/theprojector-vs.runtimeconfig.dev.json
+/home/delacruz/git-efdc/theprojector-vs/bin/Debug/netcoreapp2.0/theprojector-vs.dll
+/home/delacruz/git-efdc/theprojector-vs/bin/Debug/netcoreapp2.0/theprojector-vs.pdb
+/home/delacruz/git-efdc/theprojector-vs/obj/Debug/netcoreapp2.0/theprojector-vs.csproj.CoreCompileInputs.cache
+/home/delacruz/git-efdc/theprojector-vs/obj/Debug/netcoreapp2.0/theprojector-vs.AssemblyInfoInputs.cache
+/home/delacruz/git-efdc/theprojector-vs/obj/Debug/netcoreapp2.0/theprojector-vs.AssemblyInfo.cs
+/home/delacruz/git-efdc/theprojector-vs/obj/Debug/netcoreapp2.0/theprojector-vs.dll
+/home/delacruz/git-efdc/theprojector-vs/obj/Debug/netcoreapp2.0/theprojector-vs.pdb
